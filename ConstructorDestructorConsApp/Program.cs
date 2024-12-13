@@ -1,5 +1,5 @@
 ﻿//OOPS
-//9. Constructor and Destructor
+//8. Constructor and Destructor
 namespace ConstructorDestructorConApp
 {
     public class Person

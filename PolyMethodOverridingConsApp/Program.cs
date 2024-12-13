@@ -1,5 +1,5 @@
 ﻿//OOPS
-//5. Polymorphism
+//6. Polymorphism
 //b. Method Overriding
 namespace PolyMethodOverridingConApp
 {

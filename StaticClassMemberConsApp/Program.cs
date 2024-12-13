@@ -1,5 +1,5 @@
 ﻿//OOPS
-//10. Static Class Member
+//9. Static Class Member
 namespace StaticClassMemberConApp
 {
     public static class MathUtils

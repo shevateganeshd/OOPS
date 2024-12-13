@@ -1,5 +1,5 @@
 ﻿//OOPS
-//7. Inheritance
+//4. Inheritance
 namespace InheritanceConApp
 {
     public class Animal
@@ -50,3 +50,32 @@ namespace InheritanceConApp
         }
     }
 }
+
+/*
+namespace InheritanceConApp
+{
+    public interface IAnimal
+    {
+        void Speak();
+    }
+
+    public class Cat : IAnimal
+    {
+        public void Speak()
+        {
+            Console.WriteLine("Meow.");
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            IAnimal animal = new Cat();
+            animal.Speak(); // Output: Meow.
+
+            Console.ReadKey();
+        }
+    }
+}
+*/

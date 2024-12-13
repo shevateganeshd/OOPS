@@ -178,8 +178,72 @@
     }
 }*/
 
+/*
+namespace InheritanceConApp
+{
+    public interface IAnimal
+    {
+        void Speak();
+    }
 
-//5. Polymorphism
+    public class Cat : IAnimal
+    {
+        public void Speak()
+        {
+            Console.WriteLine("Meow.");
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            IAnimal animal = new Cat();
+            animal.Speak(); // Output: Meow.
+
+            Console.ReadKey();
+        }
+    }
+}
+*/
+
+//5. Composition
+/*namespace OOPSConsoleApp
+{
+    public class Engine
+    {
+        public void Start()
+        {
+            Console.WriteLine("Engine started.");
+        }
+    }
+
+    public class Car
+    {
+        private Engine engine = new Engine();
+
+        public void StartCar()
+        {
+            engine.Start();
+            Console.WriteLine("Car is running.");
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Car myCar = new Car();
+            myCar.StartCar();
+            // Output: Engine started.
+            //         Car is running.
+
+            Console.ReadKey();
+        }
+    }
+}*/
+
+//6. Polymorphism
 //a. Method Overloading
 /*namespace OOPSConsoleApp
 {
@@ -209,7 +273,7 @@
     }
 }*/
 
-//5. Polymorphism
+//6. Polymorphism
 //b. Method Overriding
 /*namespace OOPSConsoleApp
 {
@@ -257,7 +321,7 @@
 }*/
 
 
-//6. Abstraction
+//7. Abstraction
 /*namespace OOPSConsoleApp
 {
     public abstract class Vehicle
@@ -286,72 +350,7 @@
 }
 */
 
-//7. Inheritance
-/*namespace OOPSConsoleApp
-{
-    public interface IAnimal
-    {
-        void Speak();
-    }
-
-    public class Cat : IAnimal
-    {
-        public void Speak()
-        {
-            Console.WriteLine("Meow.");
-        }
-    }
-
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            IAnimal animal = new Cat();
-            animal.Speak(); // Output: Meow.
-
-            Console.ReadKey();
-        }
-    }
-}*/
-
-//8. Composition
-/*namespace OOPSConsoleApp
-{
-    public class Engine
-    {
-        public void Start()
-        {
-            Console.WriteLine("Engine started.");
-        }
-    }
-
-    public class Car
-    {
-        private Engine engine = new Engine();
-
-        public void StartCar()
-        {
-            engine.Start();
-            Console.WriteLine("Car is running.");
-        }
-    }
-
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Car myCar = new Car();
-            myCar.StartCar();
-            // Output: Engine started.
-            //         Car is running.
-
-            Console.ReadKey();
-        }
-    }
-}*/
-
-
-//9. Constructor and Destructor
+//8. Constructor and Destructor
 /*namespace OOPSConsoleApp
 {
     public class Person
@@ -391,7 +390,7 @@
 }
 */
 
-//10. Static Class Member
+//9. Static Class Member
 /*namespace OOPSConsoleApp
 {
     public static class MathUtils

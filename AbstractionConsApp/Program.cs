@@ -1,5 +1,5 @@
 ﻿//OOPS
-//6. Abstraction
+//7. Abstraction
 namespace AbstractionConApp
 {
     public abstract class Vehicle
