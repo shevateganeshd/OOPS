@@ -1,6 +1,6 @@
 ﻿//OOPS
 //3. Encapsulation
-namespace ConApp
+namespace EncapsulationConApp
 {
     public class BankAccount
     {

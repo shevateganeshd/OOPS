@@ -1,6 +1,6 @@
 ﻿//OOPS
 //1. Class
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Car
     {
@@ -28,7 +28,7 @@
 }*/
 
 //2. Object
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Car
     {
@@ -56,7 +56,7 @@
 }*/
 
 //3. Encapsulation
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class BankAccount
     {
@@ -127,7 +127,7 @@
 }*/
 
 //4. Inheritance
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Animal
     {
@@ -181,7 +181,7 @@
 
 //5. Polymorphism
 //a. Method Overloading
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Calculator
     {
@@ -211,7 +211,7 @@
 
 //5. Polymorphism
 //b. Method Overriding
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Shape
     {
@@ -258,7 +258,7 @@
 
 
 //6. Abstraction
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public abstract class Vehicle
     {
@@ -287,7 +287,7 @@
 */
 
 //7. Inheritance
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public interface IAnimal
     {
@@ -315,7 +315,7 @@
 }*/
 
 //8. Composition
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Engine
     {
@@ -352,7 +352,7 @@
 
 
 //9. Constructor and Destructor
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public class Person
     {
@@ -392,7 +392,7 @@
 */
 
 //10. Static Class Member
-/*namespace ConApp
+/*namespace OOPSConsoleApp
 {
     public static class MathUtils
     {
@@ -414,7 +414,7 @@
     }
 }*/
 
-namespace ConApp
+namespace OOPSConsoleApp
 {
     internal class Program
     {

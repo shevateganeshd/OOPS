@@ -1,6 +1,6 @@
 ﻿//OOPS
 //2. Object
-namespace ConApp
+namespace ObjectConApp
 {
     public class Car
     {

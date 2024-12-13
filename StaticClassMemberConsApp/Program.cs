@@ -1,6 +1,6 @@
 ﻿//OOPS
 //10. Static Class Member
-namespace ConApp
+namespace StaticClassMemberConApp
 {
     public static class MathUtils
     {

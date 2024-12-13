@@ -1,6 +1,6 @@
 ﻿//OOPS
 //7. Inheritance
-namespace ConApp
+namespace InheritanceConApp
 {
     public class Animal
     {

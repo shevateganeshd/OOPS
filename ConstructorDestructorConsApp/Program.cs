@@ -1,6 +1,6 @@
 ﻿//OOPS
 //9. Constructor and Destructor
-namespace ConApp
+namespace ConstructorDestructorConApp
 {
     public class Person
     {

@@ -1,7 +1,7 @@
 ﻿//OOPS
 //5. Polymorphism
 //a. Method Overloading
-namespace ConApp
+namespace PolyMethodOverloadingConApp
 {
     public class Calculator
     {

@@ -1,7 +1,7 @@
 ﻿//OOPS
 //5. Polymorphism
 //b. Method Overriding
-namespace ConApp
+namespace PolyMethodOverridingConApp
 {
     public class Shape
     {
